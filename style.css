@@ -435,7 +435,7 @@ body {
 }
 @media screen and (max-width: 690px) {
   .services {
-    height: 1600px;
+    height: 1880px;
   }
 
   .services h1 {
@@ -446,7 +446,7 @@ body {
 
 @media screen and (max-width: 480px) {
   .services {
-    height: 1400px;
+    height: 1850px;
   }
   .services h1 {
     font-size: 1.2rem;
